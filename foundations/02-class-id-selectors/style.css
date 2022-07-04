@@ -1,0 +1,22 @@
+.pone {
+    background-color: rgb(255, 167, 167);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+
+}
+
+#divone {
+font-size: 36px;
+color: blue;
+}
+
+.pptwo {
+    font-size: 24px;
+    
+}
+
+#divtwo {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 36px;
+    font-weight: bold;
+
+}
